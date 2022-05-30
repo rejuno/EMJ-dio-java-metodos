@@ -2,6 +2,7 @@ package AulaJava;
 import java.util.Scanner;
 import java.lang.System;
 public class Sobrecarga {
+	//Outra forma de fazer disponivel nesse repositorio: https://github.com/tlcdio/MAula02/tree/master/src/one/digitalinnovation/basecamp
 	//CONDICAO
 	public static void opcao(int opcao) {
 		
@@ -41,7 +42,7 @@ public class Sobrecarga {
 			break;
 		default:
 			
-			System.out.println("OpÁ„o Inv·lida");
+			System.out.println("Op√ß√£o Inv√°lida");
 			break;
 		}
 		
